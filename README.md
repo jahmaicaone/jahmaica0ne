@@ -13,14 +13,21 @@ Worldwide Web Services [WWSWEB] is a community oriented web development project 
 
 The role of the Worldwide Web Services [WWSWEB] Web team is to:
 
-To Support Decisions Of The Leadership
-Submit Web DevOps Contributions
-Define The WWSWEB Roadmap
-Review And Approve WWSWEB Specifications
-Vote For New WWSWEB Functionalities
-Approve Changes To WWSWEB Core Operations
-Liaise With Industry Stakeholders
-Liaise With The Merchant World
+To Support Decisions Of The Leadership.
+
+Submit Web DevOps Contributions.
+
+Define The WWSWEB Roadmap.
+
+Review And Approve WWSWEB Specifications.
+
+Vote For New WWSWEB Functionalities.
+
+Approve Changes To WWSWEB Core Operations.
+
+Liaise With Industry Stakeholders.
+
+Liaise With The Merchant World.
 
 As the project progresses, more structure will to fall into place where a Project Management Committee takes over many of the admin and technical decision making functions within the project. The project will also have a barebone WWSWEB Foundation to handle financial contribution and corporate level agreements for the Worldwide Web Services [WWSWEB] and associated parties.
 
@@ -29,23 +36,37 @@ The goal of the Worldwide Web Services [WWSWEB] project is the creation of a vir
 
 This Worldwide Web Services [WWSWEB] project will bring about:
 
-High-quality state-of-the-art leading edge application suites
-Multi-device accessibility and referenceable by a critical mass of globally-spread users
-An exponentially growing application suites of addons and feature enhancements
-A maximized adoption rate when there are no barriers to its setup, usage and how to guides
-A viable service-supported product built by out-of-the-box thinkers
-A globally acknowledged platform whose website products will be useful to Vendors
 
-Growing base of users ensure confidence at up-market levels
-Globally wide scale contributor participation
-Non-commercial distraction or patronage biased towards any establishment
-Strict contributorship honouring and acceptance into aristocracy
-Assignment of admin rights and promotions based on meritocracy
-Compliance with W3C and Worldwide Web Services [WWSWEB] rules
-Visionary and Visible Webmaster Leadership
+High-quality state-of-the-art leading edge application suites.
+
+Multi-device accessibility and referenceable by a critical mass of globally-spread users.
+
+An exponentially growing application suites of addons and feature enhancements.
+
+A maximized adoption rate when there are no barriers to its setup, usage and how to guides.
+
+A viable service-supported product built by out-of-the-box thinkers.
+
+A globally acknowledged platform whose website products will be useful to Vendors.
+
+Growing base of users ensure confidence at up-market levels.
+
+Globally wide scale contributor participation.
+
+Non-commercial distraction or patronage biased towards any establishment.
+
+Strict contributorship honouring and acceptance into hierarchy.
+
+Assignment of admin rights and promotions based on meritocracy.
+
+Compliance with W3C and Worldwide Web Services [WWSWEB] rules.
+
+Visionary and Visible Webmaster Leadership.
+
 
 See also:
 {Links… soon come}
+
 
 Comments:
 {None yet}
